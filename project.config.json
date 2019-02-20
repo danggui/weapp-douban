@@ -9,8 +9,8 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "1.9.1",
-	"appid": "wxb9eb22375e8789a7",
-	"projectname": "douban",
+	"appid": "wxd6535b674e826b67",
+	"projectname": "wx-douban",
 	"isGameTourist": false,
 	"condition": {
 		"search": {
